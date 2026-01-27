@@ -1,0 +1,56 @@
+[
+  {
+    "flight_id": "AI101",
+    "aircraft_id": "VT-ABC",
+    "timestamp": "2025-12-10T08:00:00",
+    "cabin_pressure": 8000,
+    "cabin_temperature": 24,
+    "cabin_altitude": 6500,
+    "pressure_rate_change": 300
+  },
+  {
+    "flight_id": "AI101",
+    "aircraft_id": "VT-ABC",
+    "timestamp": "2025-12-10T08:15:00",
+    "cabin_pressure": 7800,
+    "cabin_temperature": 26,
+    "cabin_altitude": 6800,
+    "pressure_rate_change": 350
+  },
+  {
+    "flight_id": "AI101",
+    "aircraft_id": "VT-ABC",
+    "timestamp": "2025-12-10T08:30:00",
+    "cabin_pressure": 7500,
+    "cabin_temperature": 33,
+    "cabin_altitude": 7200,
+    "pressure_rate_change": 400
+  },
+  {
+    "flight_id": "IN202",
+    "aircraft_id": "VT-XYZ",
+    "timestamp": "2025-12-10T09:00:00",
+    "cabin_pressure": 8200,
+    "cabin_temperature": 28,
+    "cabin_altitude": 6200,
+    "pressure_rate_change": 280
+  },
+  {
+    "flight_id": "IN202",
+    "aircraft_id": "VT-XYZ",
+    "timestamp": "2025-12-10T09:15:00",
+    "cabin_pressure": 8100,
+    "cabin_temperature": 31,
+    "cabin_altitude": 6400,
+    "pressure_rate_change": 320
+  },
+  {
+    "flight_id": "IN202",
+    "aircraft_id": "VT-XYZ",
+    "timestamp": "2025-12-10T09:30:00",
+    "cabin_pressure": 7900,
+    "cabin_temperature": 32,
+    "cabin_altitude": 6600,
+    "pressure_rate_change": 360
+  }
+]

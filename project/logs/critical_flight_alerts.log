@@ -1,0 +1,4 @@
+CRITICAL FLIGHT ALERTS - Generated: 2026-01-27 17:28:58
+
+timestamp: 2025-12-10T08:30:00, flight: AI101, alert: HIGH_VIBRATION, vibration: 6.0, threshold: 5.0
+timestamp: 2025-12-10T08:30:00, flight: AI101, alert: ABNORMAL_FUEL_BURN, fuel_burn: 2700, thrust_deviation: 25.0%
