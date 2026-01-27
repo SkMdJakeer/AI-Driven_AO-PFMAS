@@ -1,0 +1,9 @@
+AIRCRAFT HEALTH ALERTS - Generated: 2026-01-27 17:28:58
+
+timestamp: 2025-12-10T08:30:00, flight: AI101, alert: HIGH_VIBRATION, vibration: 6.0, threshold: 5.0
+timestamp: 2025-12-10T09:10:00, flight: AI101, alert: REPEATED_TURBULENCE, occurrences: 2
+timestamp: 2025-12-10T09:10:00, flight: IN202, alert: REPEATED_TURBULENCE, occurrences: 2
+timestamp: 2025-12-10T08:30:00, flight: AI101, alert: ABNORMAL_FUEL_BURN, fuel_burn: 2700, thrust_deviation: 25.0%
+timestamp: 2025-12-10T08:30:00, flight: AI101, alert: HIGH_CABIN_TEMP, temperature: 33C, limit: 30C
+timestamp: 2025-12-10T09:15:00, flight: IN202, alert: HIGH_CABIN_TEMP, temperature: 31C, limit: 30C
+timestamp: 2025-12-10T09:30:00, flight: IN202, alert: HIGH_CABIN_TEMP, temperature: 32C, limit: 30C
