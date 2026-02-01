@@ -62,8 +62,8 @@ airline_ops_automation/
 │   └── reporter.py
 │
 ├── airline_config.json     # Configuration & thresholds
-├── main.py                 # Application entry point
-└── README.md
+└── main.py                 # Application entry point
+
 
 ````
 
